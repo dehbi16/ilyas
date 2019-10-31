@@ -1,2 +1,3 @@
-var i=0
-alert (i+1)
+var i=2
+var j=1
+alert (i+j)
