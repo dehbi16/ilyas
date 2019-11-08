@@ -1,2 +1,2 @@
-aujourd'hui c'est jeudi.
+Hier c'est jeudi.
 
